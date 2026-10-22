@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+qdrant_storage/
+simulate_index_failure.flag
+index_data_backup.py
